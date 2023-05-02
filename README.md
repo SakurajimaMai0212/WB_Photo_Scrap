@@ -6,6 +6,8 @@
 
 Вам необходимо скачать chromedriver для последней версии google chrome и положить в папку chromedriver, в корневой папке C:.
 
+Ссылка на драйвер: https://chromedriver.chromium.org/
+
 После чего усатновить модуль selenium:
 
     pip install selenium
