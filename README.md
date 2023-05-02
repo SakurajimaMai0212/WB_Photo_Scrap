@@ -8,7 +8,7 @@
 
 Ссылка на драйвер: https://chromedriver.chromium.org/
 
-После чего усатновить модуль selenium:
+После чего установить модуль selenium:
 
     pip install selenium
 
